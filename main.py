@@ -1,8 +1,5 @@
-from tkinter import *
-from tkinter.ttk import Progressbar
+
 from PIL import ImageTk, Image
-import pygame
-import os
 from MusicPlayer import*
 
 
